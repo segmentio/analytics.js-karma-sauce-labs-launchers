@@ -1,0 +1,17 @@
+{
+  "name": "@segment/analytics.js-karma-sauce-labs-launchers",
+  "version": "1.0.0",
+  "description": "A shared list of Karma/Sauce Labs launchers supported by Analytics.js and its supporting components.",
+  "keywords": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/segmentio/analytics.js-karma-sauce-labs-launchers"
+  },
+  "author": "Segment <friends@segment.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segmentio/analytics.js-karma-sauce-labs-launchers/issues"
+  },
+  "homepage": "https://github.com/segmentio/analytics.js-karma-sauce-labs-launchers#readme"
+}
